@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Nav Complete</string>
+    <string name="title_activity_nav1">Nav1Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_nav2">Nav2Activity</string>
+    <string name="title_activity_nav3">Nav3Activity</string>
+    <string name="title_activity_nav4">Nav4Activity</string>
+    <string name="nama">Nama : Bela Amalia \nKelas  : XIRPL2 \nNosen  : 05 \nAsal  : Banyuwangi \nTgl Lahir  : 01 Juni 2000 \nTmpt Lahir  : Banyuwangi</string>
+    <string name="kelas">Kelas  : XIRPL2</string>
+    <string name="nosen"></string>
+    <string name="asal"></string>
+    <string name="tgl"></string>
+    <string name="tmpt"></string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
